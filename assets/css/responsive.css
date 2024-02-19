@@ -82,6 +82,9 @@
 		margin-left: 0px;
 		
 	}
+	.portfolio-content {
+		margin-left: -15px;
+		}
 }/*max-width:992px*/
 
 @media screen and (max-width:991px){
@@ -98,8 +101,9 @@
 		
 	}
 	.portfolio-content {
-		margin-left: 12px;
+		margin-left: -15px;
 		}
+	
 }/*max-width:991px*/
 
 @media screen and (max-width:768px){
@@ -121,6 +125,10 @@
 		margin-left: 0px;
 		
 	}
+	.portfolio-content {
+		margin-left: -15px;
+		}
+	
 	
 
 }/*max-width:767px*/
@@ -143,6 +151,9 @@
 		margin-left: 0px;
 		
 	}
+	.portfolio-content {
+		margin-left: -15px;
+		}
 
 }/*max-width:540px*/
 
